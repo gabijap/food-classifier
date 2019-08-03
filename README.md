@@ -1,1 +1,1 @@
-"# test" 
+"Basic food classification algorithm." 
